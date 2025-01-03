@@ -1,0 +1,13 @@
+IPython
+Pillow
+opencv-python
+dash
+matplotlib
+numpy
+plotly
+sagemaker
+seaborn
+torch
+torchvision
+torchsummary
+tqdm
